@@ -28,7 +28,7 @@ export default function SignUpSide() {
         email: credentials.email,
         password: credentials.password
       }))
-    const response = await fetch("http://localhost:8080/createuser", {
+    const response = await fetch("https://beingmail.onrender.com/createuser", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",

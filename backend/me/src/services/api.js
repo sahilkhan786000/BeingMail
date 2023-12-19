@@ -2,7 +2,7 @@ import axios from 'axios';
 
 //const API_URI = 'http://mail-api.onrender.com'
 // const API_URI = 'http://localhost:8080'
-const API_URI = ''
+const API_URI = 'https://beingmail.onrender.com/'
 const API_GMAIL = async (serviceUrlObject, requestData = {}, type) => {
     const { params, urlParams, ...body } = requestData;
 
