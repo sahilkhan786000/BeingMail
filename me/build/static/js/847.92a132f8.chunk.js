@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkme=self.webpackChunkme||[]).push([[847],{7847:(e,r,s)=>{s.r(r),s.d(r,{default:()=>c});var n=s(697),a=s(890),l=s(7689),t=s(184);const c=()=>{const e=(0,l.lk)();return console.log(e),(0,t.jsx)(n.Z,{style:{marginLeft:250},children:(0,t.jsx)(a.Z,{variant:"h4",children:"There was error loading this page"})})}}}]);
+//# sourceMappingURL=847.92a132f8.chunk.js.map
