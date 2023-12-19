@@ -1,5 +1,5 @@
-const allowedOrigin = [
-    "https://BeingMail.onrender.com"
-]
+// const allowedOrigin = [
+//     "https://BeingMail.onrender.com"
+// ]
 
-export default allowedOrigin;
+// export default allowedOrigin;
